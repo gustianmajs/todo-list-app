@@ -10,4 +10,4 @@ what you can do in this app:
 
 \*please be aware of losing todo list if the app was shut down in long time
 
-![preview of todo list app](<gb\Screenshot 2024-04-08 054742.png>)
+![preview of todo list app](<gb/Screenshot 2024-04-08 054742.png>)
