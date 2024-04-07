@@ -1,7 +1,5 @@
 # Simple Todo List Application with Docker
 
----
-
 ![preview of todo list app](<gb/Screenshot 2024-04-08 054742.png>)
 
 ---
@@ -32,7 +30,7 @@ To run this application locally using Docker, follow these steps:
    ```bash
    docker-compose up -d
    ```
-4. Access the application in your web browser at http://<ip>:5000/.
+4. Access the application in your web browser at ```http://localhost:5000/```.
 
 ## Contributing
 
