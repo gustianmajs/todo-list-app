@@ -7,3 +7,5 @@ what you can do in this app:
 3. deleteing todo list that you had done todo
 
 *please be aware of losing todo list if the app was shut down in long time
+
+![Uploading Screenshot 2024-04-08 054742.png…]()
