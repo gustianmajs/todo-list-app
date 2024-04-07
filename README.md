@@ -18,15 +18,17 @@ To run this application locally using Docker, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
-3. Build the docker-compose:
+3. Build the Docker image using Docker Compose by running the following command in the project directory:
    ```bash
    docker-compose up --build
    ```
-   or
+   or run the following command in the project directory:
    ```bash
    docker-compose up -d
    ```
 4. Access the application in your web browser at `http://localhost:5000/`.
+
+---
 
 ## Contributing
 
